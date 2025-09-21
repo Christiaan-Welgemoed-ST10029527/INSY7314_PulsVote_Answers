@@ -11,11 +11,12 @@
 
 ## Ice Task 2 ##
 
-<img width="794" height="954" alt="Screenshot 2025-09-17 102313" src="https://github.com/user-attachments/assets/4392cf44-35c5-498e-8ada-ddd411228934" />## Ice task 2 ##
+<img width="794" height="954" alt="Screenshot 2025-09-17 102313" src="https://github.com/user-attachments/assets/4392cf44-35c5-498e-8ada-ddd411228934" />
 <img width="1123" height="735" alt="Screenshot 2025-09-17 095135" src="https://github.com/user-attachments/assets/6dfe092e-6623-4609-8748-79f15a3ffc11" />
 <img width="1350" height="1063" alt="Screenshot 2025-09-18 121543" src="https://github.com/user-attachments/assets/3423213d-1b74-4ac1-a9ed-2e172aee3f25" />
 <img width="833" height="305" alt="Screenshot 2025-09-17 101913" src="https://github.com/user-attachments/assets/7327d1dd-e33b-44fd-9f40-f8961249264c" />
-![Uploadin<img width="1009" height="672" alt="Screenshot 2025-09-17 103151" src="https://github.com/user-attachments/assets/5e79ff23-f947-484f-9bf1-71e5eeeb1b2c" /><img width="649" height="565" alt="Screenshot 2025-09-17 103229" src="https://github.com/user-attachments/assets/af291579-f701-4ca8-a54a-5bcd600af54e" />
+<img width="1009" height="672" alt="Screenshot 2025-09-17 103151" src="https://github.com/user-attachments/assets/5e79ff23-f947-484f-9bf1-71e5eeeb1b2c" />
+<img width="649" height="565" alt="Screenshot 2025-09-17 103229" src="https://github.com/user-attachments/assets/af291579-f701-4ca8-a54a-5bcd600af54e" />
 <img width="783" height="890" alt="Screenshot 2025-09-21 190504" src="https://github.com/user-attachments/assets/bd89b80a-2522-4f77-a5ee-78ca4717de53" />
 <img width="728" height="686" alt="Screenshot 2025-09-21 190412" src="https://github.com/user-attachments/assets/e9bf8a98-0a9d-4b92-a731-5c1ba6253f61" />
 <img width="1706" height="657" alt="Screenshot 2025-09-21 132029" src="https://github.com/user-attachments/assets/09d6a425-f71b-4105-ac5f-b51be7245483" />
