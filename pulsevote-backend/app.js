@@ -9,24 +9,20 @@ dotenv.config();
 
 const app = express();
 
-// Connect to MongoDB
 mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log('Connected to MongoDB'))
   .catch((err) => console.error('MongoDB connection error:', err));
 
-// Security and parsing middleware
-app.use(helmet());
+app.use(helmet());//(expressjs, 2025)
 app.use(cors({
-  origin: "http://localhost:5173", // Changed to HTTP
+  origin: "http://localhost:5173", 
   credentials: true
 }));
 app.use(express.json());
 
-// Import routes
 const authRoutes = require('./routes/authRoutes');
 const { authenticateToken } = require('./middleware/authMiddleware');
 
-// Routes
 app.get('/', (req, res) => {
   res.send('PulseVote API running!');
 });
@@ -41,3 +37,10 @@ app.get("/api/protected", authenticateToken, (req, res) => {
 });
 
 module.exports = app;
+/*References
+expressjs, 2025. Production Best Practices: Security. [Online] 
+Available at: https://expressjs.com/en/advanced/best-practice-security.html
+[Accessed 20 September 2025].
+
+
+*/
